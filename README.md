@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Alexandre Nasc!
 
-<!--
-**alenasc/alenasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Multidisciplinary professional with a background in entrepreneurship, full-stack development, and content creation.
 
-Here are some ideas to get you started:
+- 👨‍💻 Founder & Full-Stack Developer @ Narguileiros App
+- 🧠 CS50x certified (Harvard) | Currently learning Machine Learning @ Stanford (DeepLearning.AI)
+- 🎬 Film-maker & creative
+- 🎮 Former gaming YouTuber
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I'm working on
+
+- 🔧 Laravel-based system to automate operations for my company
+- 🧪 AI and ML projects based on Stanford/IBM/DeepLearning.AI certifications
+- 🚀 Deploying full-stack apps using PhP, Laravel, Python, MySQL, and AWS
+
+---
+
+## 🔥 Notable Projects
+
+- 🧱 **Narguileiros App** – E-commerce business founded and scaled during the pandemic
+- 🛒 **NarguileirosApp System** – Internal inventory & sales system (Laravel)
+- 🎞️ **Nasc Filmes** – Short film direction/production (1.3M+ views)
+- 🎮 **IlhaGamer** – YouTube gaming channel (1.2M+ views)
+- 🎓 **2WATCH** – Final Project for CS50x (Flask, SQLite, JS)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, PHP, JavaScript, SQL, HTML, CSS
+- **Frameworks**: Laravel, Adianti, Flask
+- **Tools**: Git, AWS, phpMyAdmin, MySQL, Adobe Suite
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alenasc/)
+- 💌 alenasc.dev@gmail.com
+
+---
+
+> "Driven by curiosity, logic, and building things that matter."
